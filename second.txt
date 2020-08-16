@@ -1,4 +1,2 @@
 hello
 this is the second file.
-i'm testing diff.
-testing again.
